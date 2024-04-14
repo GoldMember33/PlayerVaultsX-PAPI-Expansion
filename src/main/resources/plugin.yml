@@ -1,0 +1,8 @@
+name: '${project.name}'
+version: '${project.version}'
+main: me.goldmember33.playervaultsxpapiexpansion.PlayerVaultsXPAPIMain
+api-version: '1.18'
+load: STARTUP
+authors: [GoldMember33]
+description: Adds some placeholders for PlayerVaultsX plugin
+depend: [PlaceholderAPI]
